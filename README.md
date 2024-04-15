@@ -38,4 +38,5 @@ Estructura:
 * Utiliza expresiones regulares para eliminar símbolos de moneda y puntos de miles al calcular el total.
 * Implementa validación básica para evitar agregar productos duplicados.
 
-![](image.png)
+![image](https://github.com/Orliluq/Hello-Kitty-Carrito-de-compra/assets/122529721/7a062e6f-a0d3-4c39-92c5-f0df4da037bb)
+
