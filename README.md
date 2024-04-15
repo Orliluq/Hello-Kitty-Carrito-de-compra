@@ -38,4 +38,4 @@ Estructura:
 * Utiliza expresiones regulares para eliminar símbolos de moneda y puntos de miles al calcular el total.
 * Implementa validación básica para evitar agregar productos duplicados.
 
-![alt text](image.png)
+![](image.png)
